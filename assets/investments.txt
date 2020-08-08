@@ -1,7 +1,7 @@
-name, email, company, profit
-Diane McClure, cliff@zulauf.io, Waelchi and Sons, 348.31
-Wilburn Langosh, rich.hirthe@rohan.co, Nicolas, Hirthe and Kerluke, 273.71
-Elijah Runte, drusilla_jaskolski@grady.info, Kohler-Goyette, 711.41
-Hana Wyman, arnold_haley@dickens-adams.biz, Reilly, Schowalter and Pollich, 911.72
-Hai Hahn Esq., lamont@hirthe-weissnat.com, Marquardt, Kohler and Sanford, 275.79
-Leonard Mackenzie, augusta_buckridge@murphy.info, Mayert-Wuckert, 901.25
+name, email, company, profit, exchanged
+Olimpia Osinski, isiah@schmeler.io, Friesen, Parker and Ortiz, 288.08, 1566.84
+Robert Gibson, andres_fritsch@zulauf.io, Rohan-Konopelski, 588.21, 3199.22
+Fabian Kuphal, rochelle@considine-thompson.biz, Hand, Tillman and Nolan, 512.19, 2785.75
+Otelia Hartmann, charlotte@hettinger.info, Gislason LLC, 167.77, 912.48
+Rosemary Abbott, elroy@schinner.info, Ziemann Group, 684.63, 3723.63
+Leonard Mackenzie, stewart.corkery@fadel.info, Lebsack and Sons, 357.82, 1946.15
