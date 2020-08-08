@@ -1,0 +1,7 @@
+name, email, company, profit
+Diane McClure, cliff@zulauf.io, Waelchi and Sons, 348.31
+Wilburn Langosh, rich.hirthe@rohan.co, Nicolas, Hirthe and Kerluke, 273.71
+Elijah Runte, drusilla_jaskolski@grady.info, Kohler-Goyette, 711.41
+Hana Wyman, arnold_haley@dickens-adams.biz, Reilly, Schowalter and Pollich, 911.72
+Hai Hahn Esq., lamont@hirthe-weissnat.com, Marquardt, Kohler and Sanford, 275.79
+Leonard Mackenzie, augusta_buckridge@murphy.info, Mayert-Wuckert, 901.25
