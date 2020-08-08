@@ -1,9 +1,11 @@
+require 'faker'
+
 require_relative 'file_process/file_process'
+require_relative 'billings/billing_partners'
+require_relative 'billings/billing'
 
-file_path = 'assets/investiments.txt'
-data = "Fazendo um testes\n"
-line = "Uma nova linha no arquivo\n"
+billing_partners = BillingPartners.new
+billing_partners.process_data
 
-FileProcess.process_file(file_path, data)
-FileProcess.read_file(file_path)
-FileProcess.add_line(file_path, line)
+billing = Billing.new("Leonard Mackenzie", Faker::Internet.email, Faker::Company.name, Faker::Number.decimal(l_digits: 3, r_digits: 2))
+billing.add_billing_line
